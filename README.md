@@ -1,2 +1,2 @@
-# Uri-Problems
-Problems of the Uri platform
+# URI-Problems
+Problems of the URI platform
