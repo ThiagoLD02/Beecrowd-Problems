@@ -1,4 +1,4 @@
-# Beecrowd-Prolbems
+# Beecrowd-Problems
 
 <img  src = "logo.png" height=100 widith = 20>
 
